@@ -24,4 +24,8 @@
 
     https://nodejs.org/en/download/
 
+   ⚡ Yarn<br>
+
+    https://classic.yarnpkg.com/lang/en/docs/install/#windows-stable
+    npm install --global yarn
 
